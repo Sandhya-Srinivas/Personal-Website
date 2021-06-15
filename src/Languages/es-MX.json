@@ -1,0 +1,13 @@
+{
+    "home": "Hola, soy {Name}, un estudiante de CSE en {College}. Me apasiona el desarrollo de aplicaciones, la inteligencia artificial y las redes informáticas y la seguridad.",
+    "about": "Certificaciones",
+    "cert1": "<tag1>{cert11}</tag1>",
+    "skills": "Pila de conocimientos",
+    "past": "Ingenieria",
+    "next": "Proyectos",
+    "iAbout": "Acerca de",
+    "iHome": "Inicio",
+    "iSkills": "la pericia",
+    "iPast": "hasta aquí",
+    "iNext": "próximo"
+}

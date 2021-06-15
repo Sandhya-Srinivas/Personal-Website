@@ -1,0 +1,13 @@
+{
+    "home": "Hi, I am {Name}, a CSE undergraduate at {College}. I am passionate about application development, artificial intelligence and computer networks and security.",
+    "about": "Certifications",
+    "cert1": "<tag1>{cert11}</tag1>",
+    "skills": "Knowledge stack",
+    "past": "Engineering",
+    "next": "Projects",
+    "iAbout": "About",
+    "iHome": "Home",
+    "iSkills": "Skills",
+    "iPast": "Past",
+    "iNext": "Next"
+}
